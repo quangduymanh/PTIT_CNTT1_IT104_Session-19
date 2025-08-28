@@ -1,0 +1,22 @@
+.random-quote {
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.random-quote h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.random-quote p {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.random-quote button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

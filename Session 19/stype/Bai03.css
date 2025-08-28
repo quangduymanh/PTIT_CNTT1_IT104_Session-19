@@ -1,0 +1,22 @@
+.render-counter {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.render-counter h2 {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.render-counter input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.render-counter p {
+  font-size: 18px;
+  margin-top: 10px;
+}
