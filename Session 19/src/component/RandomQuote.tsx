@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../stype/Bai05.css';
 
 const quotes = [
   "Học, học nữa, học mãi.",
@@ -26,3 +27,4 @@ const RandomQuote: React.FC = () => {
 };
 
 export default RandomQuote;
+
