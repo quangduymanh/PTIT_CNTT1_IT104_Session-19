@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../stype/Bai04.css';
 
 const SimpleForm: React.FC = () => {
   const [name, setName] = useState('');
@@ -62,3 +63,4 @@ const SimpleForm: React.FC = () => {
 };
 
 export default SimpleForm;
+
